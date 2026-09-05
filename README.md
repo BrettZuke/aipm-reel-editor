@@ -1,3 +1,15 @@
+# This moved
+
+Everything here now lives inside **[AIPM-Complete-Setup](https://github.com/BrettZuke/AIPM-Complete-Setup)**, in `04-deliver/reel-editor`.
+
+Clone that instead. It is kept up to date and scanned before every push; this copy is not.
+
+```bash
+git clone https://github.com/BrettZuke/AIPM-Complete-Setup.git
+```
+
+---
+
 # AIPM Reel Editor
 
 Cut the dead air out of your talking videos automatically. You record, this removes the
